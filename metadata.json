@@ -1,22 +1,6 @@
 {
   "name": "N1X Token",
-  "symbol": "$N1X",
-  "description": "Official N1X Token on the X1 blockchain",
-  "image": "https://x1val.online/icons/2yWWPR9AcgXGejHV9GPvMzxFfCW99hr8LTx9sRdbBs1M.png",
-  "seller_fee_basis_points": 0,
-  "attributes": [
-    {
-      "trait_type": "Projekt",
-      "value": "N1X"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://x1val.online/icons/2yWWPR9AcgXGejHV9GPvMzxFfCW99hr8LTx9sRdbBs1M.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  }
+  "symbol": "N1X",
+  "description": "Official N1X Token on the X1 blockchain.",
+  "image": "https://x1val.online/icons/2yWWPR9AcgXGejHV9GPvMzxFfCW99hr8LTx9sRdbBs1M.png"
 }
